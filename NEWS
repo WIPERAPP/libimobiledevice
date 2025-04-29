@@ -1,3 +1,7 @@
+Modification 25/03/2025
+* Changes:
+  - Added support for ERASE command in idevicebackup2 tool
+
 Version 1.3.0
 ~~~~~~~~~~~~~
 
